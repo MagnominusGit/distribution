@@ -481,4 +481,37 @@ it's recommended to have a mouse and keyboard to modify settings.</desc>
         <players>1</players>
         <image>./images/nfs.svg</image>
      </game>
+    <game>
+        <path>./Start armGBA.sh</path>
+        <name>armGBA</name>
+        <desc>Opens armGBA, the standalone Game Boy Advance, Game Boy and Game Boy Color emulator, with its own menus, save states, cheats and RetroAchievements.</desc>
+        <developer>Magnominus</developer>
+        <publisher>ROCKNIX</publisher>
+        <rating>5.0</rating>
+        <releasedate>2026</releasedate>
+        <genre>Emulator</genre>
+        <players>1</players>
+    </game>
+    <game>
+        <path>./Start armN64.sh</path>
+        <name>armN64</name>
+        <desc>Opens armN64, the standalone Nintendo 64 and 64DD emulator, with its own menus, save states, Controller Pak manager and RetroAchievements.</desc>
+        <developer>Magnominus</developer>
+        <publisher>ROCKNIX</publisher>
+        <rating>5.0</rating>
+        <releasedate>2026</releasedate>
+        <genre>Emulator</genre>
+        <players>1</players>
+    </game>
+    <game>
+        <path>./Start armNES.sh</path>
+        <name>armNES</name>
+        <desc>Opens armNES, the standalone NES and Famicom Disk System emulator, with its own menus, save states, cheats and RetroAchievements.</desc>
+        <developer>Magnominus</developer>
+        <publisher>ROCKNIX</publisher>
+        <rating>5.0</rating>
+        <releasedate>2026</releasedate>
+        <genre>Emulator</genre>
+        <players>1</players>
+    </game>
 </gameList>
