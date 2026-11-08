@@ -2,7 +2,7 @@
 # Copyright (C) 2026-present ROCKNIX (https://github.com/ROCKNIX)
 
 PKG_NAME="armn64-sa"
-PKG_VERSION="4b92fb8323f13d96ef122f62c480a1eac876d729"
+PKG_VERSION="96ba6adbbaebf303701dc3cff24134e018b43879"
 PKG_LICENSE="GPL-2.0-or-later"
 PKG_SITE="https://github.com/MagnominusGit/armN64"
 PKG_URL="${PKG_SITE}.git"
